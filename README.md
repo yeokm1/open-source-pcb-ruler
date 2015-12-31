@@ -9,6 +9,16 @@ Suggestions for footprints
 <http://black-electronics.com/blog/open-source-pcb-ruler/>
 <br>
 <br>
+
+![Screen](images/front.jpg)
+
+![Screen](images/front_populated.jpg)
+Populated with some components
+
+![Screen](images/back.jpg)
+
+
+
 <img src="http://black-electronics.com/blog/wp-content/uploads/2014/03/top.png" alt="Top" style="width: 500px;"/>
 <img src="http://black-electronics.com/blog/wp-content/uploads/2014/03/bottom.png"alt="Bottom" style="width: 600px;">
 <br><br>
